@@ -1,0 +1,10 @@
+C:\Users\HP Envi\source\repos\act 4\act 4\bin\Debug\act 4.exe.config
+C:\Users\HP Envi\source\repos\act 4\act 4\bin\Debug\act 4.exe
+C:\Users\HP Envi\source\repos\act 4\act 4\bin\Debug\act 4.pdb
+C:\Users\HP Envi\source\repos\act 4\act 4\obj\Debug\act 4.csproj.AssemblyReference.cache
+C:\Users\HP Envi\source\repos\act 4\act 4\obj\Debug\act_4.Form1.resources
+C:\Users\HP Envi\source\repos\act 4\act 4\obj\Debug\act_4.Properties.Resources.resources
+C:\Users\HP Envi\source\repos\act 4\act 4\obj\Debug\act 4.csproj.GenerateResource.cache
+C:\Users\HP Envi\source\repos\act 4\act 4\obj\Debug\act 4.csproj.CoreCompileInputs.cache
+C:\Users\HP Envi\source\repos\act 4\act 4\obj\Debug\act 4.exe
+C:\Users\HP Envi\source\repos\act 4\act 4\obj\Debug\act 4.pdb
