@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pract5califi", "pract5califi\pract5califi.csproj", "{2BE90F0B-9E42-4C78-AD1D-8ADF5F6120F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BE90F0B-9E42-4C78-AD1D-8ADF5F6120F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE90F0B-9E42-4C78-AD1D-8ADF5F6120F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE90F0B-9E42-4C78-AD1D-8ADF5F6120F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE90F0B-9E42-4C78-AD1D-8ADF5F6120F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA603CC6-964A-4428-98E3-3E62AEE6F183}
+	EndGlobalSection
+EndGlobal

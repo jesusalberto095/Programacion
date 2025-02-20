@@ -1,0 +1,10 @@
+C:\Users\HP Envi\source\repos\pract5califi\pract5califi\bin\Debug\pract5califi.exe.config
+C:\Users\HP Envi\source\repos\pract5califi\pract5califi\bin\Debug\pract5califi.exe
+C:\Users\HP Envi\source\repos\pract5califi\pract5califi\bin\Debug\pract5califi.pdb
+C:\Users\HP Envi\source\repos\pract5califi\pract5califi\obj\Debug\pract5califi.csproj.AssemblyReference.cache
+C:\Users\HP Envi\source\repos\pract5califi\pract5califi\obj\Debug\pract5califi.Form1.resources
+C:\Users\HP Envi\source\repos\pract5califi\pract5califi\obj\Debug\pract5califi.Properties.Resources.resources
+C:\Users\HP Envi\source\repos\pract5califi\pract5califi\obj\Debug\pract5califi.csproj.GenerateResource.cache
+C:\Users\HP Envi\source\repos\pract5califi\pract5califi\obj\Debug\pract5califi.csproj.CoreCompileInputs.cache
+C:\Users\HP Envi\source\repos\pract5califi\pract5califi\obj\Debug\pract5califi.exe
+C:\Users\HP Envi\source\repos\pract5califi\pract5califi\obj\Debug\pract5califi.pdb
