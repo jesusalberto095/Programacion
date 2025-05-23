@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galeria</title>
+</head>
+<body>
+    <style>
+  body {
+    font-family: sans-serif;
+    text-align: center;
+
+    
+    background-image: url(ima50.jpg); 
+    background-size: cover;       
+    background-position: center;  
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    color: white;                 
+    text-shadow: 1px 1px 4px black; 
+  }
+</style>
+
+     <style>
+    body {
+      font-family: sans-serif;
+      text-align: center;
+    }
+
+    .galeria {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 20px;
+    }
+
+
+    .galeria img {
+      width: 200px;
+      height: 100px;
+      object-fit: cover;
+      cursor: pointer;
+      border: 2px solid #ccc;
+      border-radius: 5px;
+      transition: transform 0.2s;
+    }
+
+    .galeria img:hover {
+      transform: scale(1.1);
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Mi Galería</h1>
+
+  <!-- Galería de imágenes con enlaces a la página ver.php -->
+<div class="galeria">
+  <a href="Imagen.php?img=hip1.jpg"><img src="hip1.jpg" alt="hiphop1"></a>
+  <a href="Imagen.php?img=hip2.jpg"><img src="hip2.jpg" alt="hiphop2"></a>
+  <a href="Imagen.php?img=hip3.jpg"><img src="hip3.jpg" alt="hiphop3"></a>
+</div>
+</body>
+</html>
