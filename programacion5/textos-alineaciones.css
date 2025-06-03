@@ -1,0 +1,65 @@
+body{
+    font-family:arial,sans-serif;
+    font-size: 25px;
+    background-color: #020ae0;
+    color: white;
+}
+#left {
+    text-align: left;
+}
+#right{
+    text-align: right;
+}
+#center{
+    text-align: center;
+}
+#justify{
+    text-align: justify;
+}
+#texto-con-sangria{
+    text-indent: 4%;
+}
+#underline{
+    text-decoration: underline double;
+}
+#overline{
+    text-decoration: overline dashed;
+}
+#line-through{
+    text-decoration: line-through wavy red;
+}
+#capitalize{
+    text-transform: capitalize;
+}
+#uppercase{
+    text-transform: uppercase;
+}
+#lowercase{
+    text-transform: lowercase;
+}
+#interlineado{
+    line-height: 1.9;
+}
+#interlineado2{
+line-height: 25%;
+}
+/*propiedad text-shadow*/
+/*Se colza para agregar una Sombra a los textos:
+⁃ sombra h: posicion horizontal de la som bra
+(posifive:derecha, negativo: Rqoierda)
+-sombra v: posicion ver\;cal de la sombra
+(posi\ivo: abajo, negativo: arriba)
+_ d;fominado: ele cto de desen foqoe.
+
+-color. color de la sombra.a.*/
+#sombra{
+    text-shadow: ;
+    font-size: 3rem;
+}
+#multiple{
+    text-shadow: 0 1px 0 yellow,
+    1px 0 0 green,
+    1px 2px 1px blue,
+    2px 3px 2px grey,
+    3px 2px 2px orange;
+}
