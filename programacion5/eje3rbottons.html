@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Seleccionar Método de Pago</title>
+    <style>
+        body {
+            background-color: #007BFF; /* Fondo azul */
+            color: white;
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .formulario {
+            background-color: rgba(255, 255, 255, 0.1);
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+            text-align: center;
+        }
+
+        input[type="submit"] {
+            margin-top: 15px;
+            padding: 8px 20px;
+            background-color: white;
+            color: #007BFF;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #e0e0e0;
+        }
+
+        label {
+            margin-left: 5px;
+        }
+
+        br {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="formulario">
+        <h2>Selecciona tu método de pago:</h2>
+
+        <form method="post" action="">
+            <input type="radio" id="tarjeta" name="pago" value="Tarjeta de crédito">
+            <label for="tarjeta">Tarjeta de crédito</label><br>
+
+            <input type="radio" id="paypal" name="pago" value="PayPal">
+            <label for="paypal">PayPal</label><br>
+
+            <input type="radio" id="efectivo" name="pago" value="Efectivo">
+            <label for="efectivo">Efectivo</label><br>
+
+            <input type="radio" id="cripto" name="pago" value="Criptomonedas">
+            <label for="cripto">Criptomonedas</label><br>
+
+            <input type="submit" value="Pagar">
+        </form>
+    </div>
+
+</body>
+</html>
+
