@@ -10,14 +10,14 @@ body {
   height: 400px;
   margin: 40px auto;
   background-color: #e0e0e0;
-  border: 2px solid #707070;
+  border: 2px solid #bbb;
 }
 
 
 .azul {
   width: 50px;
   height: 50px;
-  background-color: #925f38;
+  background-color: #2196F3;
   margin: 5px;
   display: inline-block;
   position: relative;
@@ -27,10 +27,10 @@ body {
 #verde {
   width: 60px;
   height: 60px;
-  background-color: #e92b05e4;
+  background-color: #4CAF50;
   position: absolute;
   top: 50px;
   left: 100px;
   z-index: 2;
-  border: 2px solid #e02504;
+  border: 2px solid #2e7d32;
 }
